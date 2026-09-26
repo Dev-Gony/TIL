@@ -10,6 +10,7 @@
 
 #### September
 
+- [2026-09-25 — AFFIX: ZERO · Playtest · Gameplay/UI Iteration](daily/2026/09/2026-09-25.md)
 - [2026-09-24 — Prism · AFFIX: ZERO · Algo-Memory · Re:Place · Infrastructure](daily/2026/09/2026-09-24.md)
 - [2026-09-23 — Prism · Auth · Detailed Reading · Saved Q&A](daily/2026/09/2026-09-23.md)
 - [2026-09-22 — Gony Toy Labs · Algo-Memory · On-chain Signal · NoticeGuard](daily/2026/09/2026-09-22.md)
