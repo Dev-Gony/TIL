@@ -10,6 +10,7 @@
 
 #### September
 
+- [2026-09-30 — Re:Place · V2 Closeout · V3 Blog Analysis](daily/2026/09/2026-09-30.md)
 - [2026-09-29 — Re:Place · V1 Launch · V2 Tasks & Calendar](daily/2026/09/2026-09-29.md)
 - [2026-09-28 — Prism · Daily Fortune · Integration Analysis](daily/2026/09/2026-09-28.md)
 - [2026-09-27 — Hackathon · Portfolio · AI Image Strategy](daily/2026/09/2026-09-27.md)
